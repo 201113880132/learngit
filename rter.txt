@@ -1,8 +1,2 @@
-wertery
-
-123
-
-werwertwe
-
-er
-rr
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
